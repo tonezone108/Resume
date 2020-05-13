@@ -6,7 +6,7 @@ fullname:
 jobtitle:
 
 location: Austin, TX
-blurb: ""
+blurb: "Persevere. Ad Victoriam."
 
 # first item must be C# or .NET or C#/.NET
 # the first 3 will display on the card display, but list as many as you want, they will be visible on your hire page
@@ -30,8 +30,8 @@ skills:
 github: https://github.com/tonezone108
 linkedin: https://www.linkedin.com/in/antonio-pipitone/
 
-email: # tonezone108@gmail.com 
-phone: # 512-745-7170
+email:  tonezone108@gmail.com 
+phone:  512-745-7170
 
 # Make sure to edit these to be accurate for your work! The more relevant the better if the role was technical, don't feel like you need to put every job you've had.
 
@@ -64,8 +64,8 @@ education:
     degree: Modern Langauge Studies
 
 projects:
-  - name: # title of your project
-    desc: # very short description of your project
+  - name: Money Manager
+    desc: An App that allows the user to organize their expenses & allocations efficiently.
     url: # link to your deployed project
 
 ---
