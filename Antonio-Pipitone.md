@@ -66,6 +66,6 @@ education:
 projects:
   - name: Money Manager
     desc: An App that allows the user to organize their expenses & allocations efficiently.
-    url: # link to your deployed project
+    url: https://p-appmoneymanager.herokuapp.com/
 
 ---
